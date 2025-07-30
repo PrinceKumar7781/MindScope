@@ -53,16 +53,6 @@ A full-stack AI-powered web assistant that helps users upload academic PDFs or T
 
 ---
 
-
-
-## 🎥 Demo Video
-
-Watch a quick walkthrough of **MindScope** in action:
-
-[![Watch the video](https://img.youtube.com/vi/JxIVDbjs9Qw/hqdefault.jpg)](https://youtu.be/JxIVDbjs9Qw)
-
-
-
 ---
 
 ## ⚙️ Setup Instructions
@@ -71,7 +61,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/jhagauravkr/MindScope.git
+git clone https://github.com/PrinceKumar7781/MindScope.git
 cd MindScope
 
 # Set up virtual environment (recommended)
